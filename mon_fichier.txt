@@ -1,0 +1,7 @@
+Github a sauvé du code...sur la lune !
+En 1969 lors de  la mission Appolo 11, le programme qui a permis aux astronautes d'alunir sur la lune a été codé par Margarer Hamliton et son équipe au MIT.
+Fun fact: ce code historique  a éte perdu pendant des années... jusqu'à ce qu'un ingénieur le retrouve et le publie sur Github!
+Ajourd'hui n'importe qui peu consulter le code original qui a permis à Neil Armstrong et Buzz Aldrin de marcher sur la lune !
+le projet est icic !
+
+https://github.com/chrislgarry/Appolo-11
